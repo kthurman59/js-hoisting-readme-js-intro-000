@@ -9,7 +9,7 @@ function lyric() {
 }
 
 
-function crazy() {
+function thisIsCrazy() {
   // fix the code in here:
   thisIsCrazy();
 
